@@ -18,11 +18,12 @@ The script produces plots comparing:
 - True posterior vs Monte Carlo estimate
 - MCMC trace plot
 
-  ![Posterior Approximation](image2.png)
+  ![Posterior Approximation](image4.png)
 - Convergence of mean and quantiles
+-   ![Posterior Approximation](image2.png)
   ![Posterior Approximation](image3.png)
 - Monte Carlo approximations for different sample sizes
-  
+    
   ![Posterior Approximation](image1.png)
 
 
