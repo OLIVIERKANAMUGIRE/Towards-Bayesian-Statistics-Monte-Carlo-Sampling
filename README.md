@@ -20,8 +20,9 @@ The script produces plots comparing:
 
   ![Posterior Approximation](image2.png)
 - Convergence of mean and quantiles
-- ![Posterior Approximation](image3.png)
+  ![Posterior Approximation](image3.png)
 - Monte Carlo approximations for different sample sizes
+  
   ![Posterior Approximation](image1.png)
 
 
@@ -32,7 +33,4 @@ The script produces plots comparing:
 - SciPy
 - Matplotlib
 
-## Run
 
-```bash
-python bayesian_mc.py
